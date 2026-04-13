@@ -19,16 +19,22 @@ Each project helps me improve:
 ## 🗂️ Project Structure
 
 Each project is organized in its own folder:
-Day001_Band_Name_Generator/
-│
-├── main.py
-└── README.md
 
+    Day001_Band_Name_Generator/
+    │
+    ├── main.py
+    └── README.md
+
+    Day002_Tip_Calculator/
+    │
+    ├── main.py
+    └── README.md
 
 
 ## 📚 Projects
 
 - Day 1 – Band Name Generator 🎸
+- Day 2 – Tip Calculator 💰
 
 ---
 
