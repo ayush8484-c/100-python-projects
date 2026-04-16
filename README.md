@@ -30,11 +30,16 @@ Each project is organized in its own folder:
     ├── main.py
     └── README.md
 
+    Day003_Treasure_Island/
+    │
+    ├── main.py
+    └── README.md
 
 ## 📚 Projects
 
 - Day 1 – Band Name Generator 🎸
 - Day 2 – Tip Calculator 💰
+- Day 3 – Treasure Island 🏝️
 
 ---
 
