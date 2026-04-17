@@ -35,11 +35,17 @@ Each project is organized in its own folder:
     ├── main.py
     └── README.md
 
+     Day004_Rock_Paper_Scissors/
+    │
+    ├── main.py
+    └── README.md
+
 ## 📚 Projects
 
 - Day 1 – Band Name Generator 🎸
 - Day 2 – Tip Calculator 💰
 - Day 3 – Treasure Island 🏝️
+- Day 4 – Rock Paper Scissors ✊✋✌️
 
 ---
 
