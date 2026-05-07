@@ -35,7 +35,12 @@ Each project is organized in its own folder:
     ├── main.py
     └── README.md
 
-     Day004_Rock_Paper_Scissors/
+    Day004_Rock_Paper_Scissors/
+    │
+    ├── main.py
+    └── README.md
+
+    Day005_Password_Generator/
     │
     ├── main.py
     └── README.md
@@ -46,6 +51,7 @@ Each project is organized in its own folder:
 - Day 2 – Tip Calculator 💰
 - Day 3 – Treasure Island 🏝️
 - Day 4 – Rock Paper Scissors ✊✋✌️
+- Day 5 – Password Generator 🔐
 
 ---
 
