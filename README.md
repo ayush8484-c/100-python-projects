@@ -44,6 +44,11 @@ Each project is organized in its own folder:
     │
     ├── main.py
     └── README.md
+    
+    Day006_Maze_Solver/
+    │
+    ├── main.py
+    └── README.md
 
 ## 📚 Projects
 
