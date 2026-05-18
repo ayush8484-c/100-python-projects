@@ -57,6 +57,7 @@ Each project is organized in its own folder:
 - Day 3 – Treasure Island 🏝️
 - Day 4 – Rock Paper Scissors ✊✋✌️
 - Day 5 – Password Generator 🔐
+- Day 6 – Maze Solver 🤖
 
 ---
 
