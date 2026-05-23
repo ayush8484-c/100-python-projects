@@ -50,6 +50,11 @@ Each project is organized in its own folder:
     ├── main.py
     └── README.md
 
+    Day007_Hangman/
+    │
+    ├── main.py
+    └── README.md
+
 ## 📚 Projects
 
 - Day 1 – Band Name Generator 🎸
@@ -58,6 +63,7 @@ Each project is organized in its own folder:
 - Day 4 – Rock Paper Scissors ✊✋✌️
 - Day 5 – Password Generator 🔐
 - Day 6 – Maze Solver 🤖
+- Day 7 – Hangman 🎮
 
 ---
 
