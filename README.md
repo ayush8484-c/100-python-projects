@@ -54,6 +54,7 @@ Each project is organized in its own folder:
     │
     ├── main.py
     └── README.md
+    
     Day008_Caesar_Cipher/
     │
     ├── main.py
