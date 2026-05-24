@@ -54,6 +54,10 @@ Each project is organized in its own folder:
     │
     ├── main.py
     └── README.md
+    Day008_Caesar_Cipher/
+    │
+    ├── main.py
+    └── README.md
 
 ## 📚 Projects
 
@@ -64,6 +68,7 @@ Each project is organized in its own folder:
 - Day 5 – Password Generator 🔐
 - Day 6 – Maze Solver 🤖
 - Day 7 – Hangman 🎮
+- Day 8 – Caesar Cipher 🔐
 
 ---
 
