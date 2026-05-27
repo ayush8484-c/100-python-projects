@@ -59,7 +59,12 @@ Each project is organized in its own folder:
     │
     ├── main.py
     └── README.md
-
+    
+    Day009_Blind_Auction/
+    │
+    ├── main.py
+    └── README.md
+     
 ## 📚 Projects
 
 - Day 1 – Band Name Generator 🎸
@@ -70,6 +75,7 @@ Each project is organized in its own folder:
 - Day 6 – Maze Solver 🤖
 - Day 7 – Hangman 🎮
 - Day 8 – Caesar Cipher 🔐
+- Day 9 – Blind Auction 💰
 
 ---
 
