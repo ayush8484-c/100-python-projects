@@ -64,7 +64,13 @@ Each project is organized in its own folder:
     │
     ├── main.py
     └── README.md
+    
     Day010_Calculator/
+    │
+    ├── main.py
+    └── README.md
+    
+    Day011_Blackjack/
     │
     ├── main.py
     └── README.md
@@ -81,6 +87,7 @@ Each project is organized in its own folder:
 - Day 8 – Caesar Cipher 🔐
 - Day 9 – Blind Auction 💰
 - Day 10 – Calculator 🧮
+- Day 11 – Blackjack 🃏
 
 ---
 
