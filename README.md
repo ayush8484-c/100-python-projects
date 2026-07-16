@@ -74,6 +74,16 @@ Each project is organized in its own folder:
     │
     ├── main.py
     └── README.md
+
+    Day012_Number_Guessing_Game/
+    │
+    ├── main.py
+    └── README.md
+
+    Day013_Debugging/
+    │
+    ├── main.py
+    └── README.md
      
 ## 📚 Projects
 
@@ -88,6 +98,8 @@ Each project is organized in its own folder:
 - Day 9 – Blind Auction 💰
 - Day 10 – Calculator 🧮
 - Day 11 – Blackjack 🃏
+- Day 12 – Number Guessing Game 🎯
+- Day 13 – Debugging 🐞
 
 ---
 
