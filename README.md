@@ -84,6 +84,13 @@ Each project is organized in its own folder:
     │
     ├── main.py
     └── README.md
+    
+    Day014_Higher_Lower_Game/
+    │
+    ├── main.py
+    ├── game_data.py
+    ├── logo.py
+    └── README.md
      
 ## 📚 Projects
 
@@ -100,6 +107,7 @@ Each project is organized in its own folder:
 - Day 11 – Blackjack 🃏
 - Day 12 – Number Guessing Game 🎯
 - Day 13 – Debugging 🐞
+- Day 14 – Higher Lower Game 📈
 
 ---
 
