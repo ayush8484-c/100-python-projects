@@ -91,6 +91,13 @@ Each project is organized in its own folder:
     ├── game_data.py
     ├── logo.py
     └── README.md
+
+    Day015_Coffee_Machine/
+    │
+    ├── main.py
+    ├── resources.py
+    ├── logo.py
+    └── README.md
      
 ## 📚 Projects
 
@@ -108,6 +115,7 @@ Each project is organized in its own folder:
 - Day 12 – Number Guessing Game 🎯
 - Day 13 – Debugging 🐞
 - Day 14 – Higher Lower Game 📈
+- Day 15 – Coffee Machine ☕
 
 ---
 
