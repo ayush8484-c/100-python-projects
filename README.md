@@ -98,6 +98,13 @@ Each project is organized in its own folder:
     ├── resources.py
     ├── logo.py
     └── README.md
+    Day016_Coffee_Machine/
+    │
+    ├── main.py
+    ├── coffee_maker.py
+    ├── menu.py
+    ├── money_machine.py
+    └── README.md
      
 ## 📚 Projects
 
@@ -116,6 +123,7 @@ Each project is organized in its own folder:
 - Day 13 – Debugging 🐞
 - Day 14 – Higher Lower Game 📈
 - Day 15 – Coffee Machine ☕
+- Day 16 – Coffee Machine (OOP) ☕
 
 ---
 
