@@ -105,6 +105,14 @@ Each project is organized in its own folder:
     ├── menu.py
     ├── money_machine.py
     └── README.md
+    Day017_Quiz_Game/
+    │
+    ├── main.py
+    ├── data.py
+    ├── logo.py
+    ├── question_model.py
+    ├── quiz_brain.py
+    └── README.md
      
 ## 📚 Projects
 
@@ -124,6 +132,7 @@ Each project is organized in its own folder:
 - Day 14 – Higher Lower Game 📈
 - Day 15 – Coffee Machine ☕
 - Day 16 – Coffee Machine (OOP) ☕
+- Day 17 – Quiz Game 🎯
 
 ---
 
