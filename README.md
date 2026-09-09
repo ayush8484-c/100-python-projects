@@ -117,7 +117,7 @@ Each project is organized in its own folder:
     └── README.md
 
     Day018_Hirst_Spot_Painting/
-    |
+    │
     ├── main.py
     ├── color_extraction.py
     ├── Damien_Hirst_Spot_Painting.jpeg
