@@ -98,6 +98,7 @@ Each project is organized in its own folder:
     ├── resources.py
     ├── logo.py
     └── README.md
+    
     Day016_Coffee_Machine/
     │
     ├── main.py
@@ -105,6 +106,7 @@ Each project is organized in its own folder:
     ├── menu.py
     ├── money_machine.py
     └── README.md
+    
     Day017_Quiz_Game/
     │
     ├── main.py
@@ -112,6 +114,13 @@ Each project is organized in its own folder:
     ├── logo.py
     ├── question_model.py
     ├── quiz_brain.py
+    └── README.md
+
+    Day018_Hirst_Spot_Painting/
+    |
+    ├── main.py
+    ├── color_extraction.py
+    ├── Damien_Hirst_Spot_Painting.jpeg
     └── README.md
      
 ## 📚 Projects
@@ -133,6 +142,7 @@ Each project is organized in its own folder:
 - Day 15 – Coffee Machine ☕
 - Day 16 – Coffee Machine (OOP) ☕
 - Day 17 – Quiz Game 🎯
+- Day 18 – Hirst Spot Painting 🎨
 
 ---
 
