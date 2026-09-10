@@ -122,6 +122,11 @@ Each project is organized in its own folder:
     ├── color_extraction.py
     ├── Damien_Hirst_Spot_Painting.jpeg
     └── README.md
+
+    Day019_Turtle_Race/
+    │
+    ├── main.py
+    └── README.md
      
 ## 📚 Projects
 
@@ -143,6 +148,7 @@ Each project is organized in its own folder:
 - Day 16 – Coffee Machine (OOP) ☕
 - Day 17 – Quiz Game 🎯
 - Day 18 – Hirst Spot Painting 🎨
+- Day 19 – Turtle Race 🐢🏁
 
 ---
 
