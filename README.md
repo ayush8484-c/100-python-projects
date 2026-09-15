@@ -127,6 +127,15 @@ Each project is organized in its own folder:
     │
     ├── main.py
     └── README.md
+
+    Day020_21_Snake_Game/
+    │
+    ├── main.py
+    ├── snake.py
+    ├── food.py
+    ├── score.py
+    └── README.md
+    
      
 ## 📚 Projects
 
@@ -149,6 +158,7 @@ Each project is organized in its own folder:
 - Day 17 – Quiz Game 🎯
 - Day 18 – Hirst Spot Painting 🎨
 - Day 19 – Turtle Race 🐢🏁
+- Day 20–21 – Snake Game 🐍
 
 ---
 
