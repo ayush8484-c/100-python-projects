@@ -135,6 +135,15 @@ Each project is organized in its own folder:
     ├── food.py
     ├── score.py
     └── README.md
+
+    Day022_Pong_Game/
+    │
+    ├── main.py
+    ├── paddle.py
+    ├── ball.py
+    ├── borders.py
+    ├── scoreboard.py
+    └── README.md
     
      
 ## 📚 Projects
@@ -159,6 +168,7 @@ Each project is organized in its own folder:
 - Day 18 – Hirst Spot Painting 🎨
 - Day 19 – Turtle Race 🐢🏁
 - Day 20–21 – Snake Game 🐍
+- Day 22 – Pong Game 🎮
 
 ---
 
