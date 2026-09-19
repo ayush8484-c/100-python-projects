@@ -144,6 +144,15 @@ Each project is organized in its own folder:
     ├── borders.py
     ├── scoreboard.py
     └── README.md
+
+    Day025_Turtle_Crossing/
+    │
+    ├── main.py
+    ├── player.py
+    ├── car_manager.py
+    ├── collision.py
+    ├── scoreboard.py
+    └── README.md
     
      
 ## 📚 Projects
@@ -169,6 +178,7 @@ Each project is organized in its own folder:
 - Day 19 – Turtle Race 🐢🏁
 - Day 20–21 – Snake Game 🐍
 - Day 22 – Pong Game 🎮
+- Day 25 – Turtle Crossing 🐢🚗
 
 ---
 
