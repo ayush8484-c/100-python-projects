@@ -153,6 +153,17 @@ Each project is organized in its own folder:
     ├── collision.py
     ├── scoreboard.py
     └── README.md
+    Day024_Mail_Merge/
+    │
+    ├── main.py
+    ├── Input/
+    │   ├── Names/
+    │   │   └── invited_names.txt
+    │   └── Letters/
+    │       └── starting_letter.txt
+    ├── Output/
+    │   └── ReadyToSend/
+    └── README.md
     
      
 ## 📚 Projects
@@ -178,7 +189,8 @@ Each project is organized in its own folder:
 - Day 19 – Turtle Race 🐢🏁
 - Day 20–21 – Snake Game 🐍
 - Day 22 – Pong Game 🎮
-- Day 25 – Turtle Crossing 🐢🚗
+- Day 23 – Turtle Crossing 🐢🚗
+- Day 24 – Mail Merge 💌
 
 ---
 
